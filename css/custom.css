@@ -1,0 +1,25 @@
+.add{
+    background-color: rgb(72, 237, 91);
+    color: black;
+}
+
+.remove{
+    background-color: rgb(216, 112, 112);
+}
+
+body{
+    background-color: rgb(128, 234, 174);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    margin: auto 10px; 
+    width: auto; 
+    height: 2000px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#totalCart{
+    font-weight: bold;
+}
